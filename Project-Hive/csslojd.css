@@ -1,0 +1,392 @@
+.body{
+	margin-top:0px;
+	background-color: #191919;
+}
+
+
+
+
+
+.header{
+	position:fixed;
+	background-color: #191919;
+	max-height:18.5%;
+	width:100%;
+	top:0px;
+	left:0px;
+	border-bottom-style:groove;
+	border-width:10px;
+	z-index:10;
+	border-bottom-color: #DAA520;
+}
+
+.col1{
+	max-width: 25%;
+	float:left;
+}
+
+
+.col{
+	background-color: #191919;
+	float:left;
+	min-width: 55%;
+	margin-left:30%;
+	
+}
+	
+.bis{
+	margin-top: 0%;
+	margin-left: 4%;
+	max-width:46%;
+}
+			
+.bis2{
+	margin-left: 5%;
+	display:inline-block;
+	
+		
+	
+}
+nav ul li a {				
+	font-size:20px;
+	background-color:transparent;
+	text-decoration:none;
+	
+	
+	padding: 10px 10px;
+	margin-top:22px;
+	border-radius:4px;
+	width:110%;
+	color:#DAA520;
+}
+
+nav ul li a:hover {
+	background-color:#000;
+	color:#bc8e1c;
+	
+	font-size:20px;
+	width:110%;
+				}
+				
+nav ul li a:link, nav ul li a:visited {
+	padding: 10px 10px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+
+h1{
+	text-align:center;
+	margin-top:20%;
+	color:#DAA520;
+	font-size:50px;
+}
+
+.menu{
+	margin-top:10%;
+	text-align:center;
+	font-size:20px;
+	
+}
+.link1{
+	border-radius:4px;
+	background-color:#000;
+	color:#DAA520;
+	text-decoration:none;
+	padding: 10px 10px;
+}
+.linkep{
+	margin-right:5%;
+	color:#DAA520;
+	text-decoration:none;
+	padding: 10px 10px;
+
+}
+
+.link{
+	
+	margin-left:5%;
+	color:#DAA520;
+	text-decoration:none;
+	padding: 10px 10px;
+}
+
+.link:hover {
+	background-color:#000;
+	width:110%;
+	padding: 10px 10px;
+	border-radius:4px;
+}
+
+.sec2{
+	margin-top:5%;
+	max-width:100%;
+	width:100%;
+}
+
+.sec3{
+	margin-top:30%;
+}
+
+.cold1{
+	border: 2px solid;
+	margin-left:3.5%;
+	margin-top:5%;
+	float:left;
+	width:20%;
+
+
+}
+
+.cold{
+	border: 2px solid;
+	margin-left:3.5%;
+	margin-top:5%;
+	float:left;
+	width:20%;
+
+}
+
+
+.capa{
+	width:100%;
+	
+
+
+
+}
+
+.title{
+	margin-top:15%;
+	text-align:center;
+	color: #DAA520;
+	font-size:30px;
+
+}
+
+.grad1{
+	
+	position:absolute;
+	background: rgba(0, 0, 0, 0.0);
+	z-index:9;
+	
+	margin-left:3.5%;
+	margin-top:5%;
+	float:left;
+	width:20%;
+	
+	
+	height:41%;
+
+}
+.grad2{
+	
+	position:absolute;
+	background: rgba(0, 0, 0, 0.0);
+	z-index:9;
+	
+	margin-left:27%;
+	margin-top:5%;
+	float:left;
+	width:20%;
+	
+	
+	height:41%;
+
+}
+.grad3{
+	
+	position:absolute;
+	background: rgba(0, 0, 0, 0.);
+	z-index:9;
+	
+	margin-left:50.5%;
+	margin-top:5%;
+	float:left;
+	width:20%;
+	
+	
+	height:41%;
+
+}
+.grad4{
+	
+	position:absolute;
+	background: rgba(0, 0, 0, 0.);
+	z-index:9;
+	
+	margin-left:74%;
+	margin-top:5%;
+	float:left;
+	width:20%;
+	
+	
+	height:41%;
+
+}
+
+.grad1:hover {
+	background: rgba(0, 0, 0, 0.9);
+	
+	
+	
+}
+.grad1:hover > p{
+	visibility:visible;
+	
+
+}
+
+.grad2:hover {
+	background: rgba(0, 0, 0, 0.9);
+	
+	
+	
+}
+.grad2:hover > p{
+	visibility:visible;
+	
+
+}
+
+.grad3:hover {
+	background: rgba(0, 0, 0, 0.9);
+	
+	
+	
+}
+.grad3:hover > p{
+	visibility:visible;
+	
+
+}
+
+.grad4:hover {
+	background: rgba(0, 0, 0, 0.9);
+	
+	
+	
+}
+.grad4:hover > p{
+	visibility:visible;
+	
+
+}
+
+
+.txt{
+	visibility:hidden;
+	padding-top:50%;
+	text-align: center;
+	color:#fff;
+	font-size:20px;
+}
+.grad5{
+	
+	position:absolute;
+	background: rgba(0, 0, 0, 0.);
+	z-index:9;
+	
+	margin-left:3.5%;
+	margin-top:30%;
+	float:left;
+	width:20%;
+	
+	
+	height:41%;
+
+}
+.grad6{
+	
+	position:absolute;
+	background: rgba(0, 0, 0, 0.);
+	z-index:9;
+	
+	margin-left:27%;
+	margin-top:30%;
+	float:left;
+	width:20%;
+	
+	
+	height:41%;
+
+}
+.grad7{
+	
+	position:absolute;
+	background: rgba(0, 0, 0, 0.);
+	z-index:9;
+	
+	margin-left:50.5%;
+	margin-top:30%;
+	float:left;
+	width:20%;
+	
+	
+	height:41%;
+
+}
+
+.grad8{
+	
+	position:absolute;
+	background: rgba(0, 0, 0, 0.);
+	z-index:9;
+	
+	margin-left:74%;
+	margin-top:30%;
+	float:left;
+	width:20%;
+	
+	
+	height:41%;
+
+}
+
+.grad5:hover {
+	background: rgba(0, 0, 0, 0.9);
+	
+	
+	
+}
+.grad5:hover > p{
+	visibility:visible;
+	
+
+}
+
+.grad6:hover {
+	background: rgba(0, 0, 0, 0.9);
+	
+	
+	
+}
+.grad6:hover > p{
+	visibility:visible;
+	
+
+}
+
+.grad7:hover {
+	background: rgba(0, 0, 0, 0.9);
+	
+	
+	
+}
+.grad7:hover > p{
+	visibility:visible;
+	
+
+}
+
+.grad8:hover {
+	background: rgba(0, 0, 0, 0.9);
+	
+	
+	
+}
+.grad8:hover > p{
+	visibility:visible;
+	
+
+}
